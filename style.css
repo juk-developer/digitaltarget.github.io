@@ -36,13 +36,14 @@ h1 {
 .dt-logo {
   width: 80px;
   height: 80px;
-  margin-bottom: 1rem;
+  margin-top: 3rem;
 }
 
 .btn {
   font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
+  margin-bottom: 3rem;
 }
 
 .btn-primary {
